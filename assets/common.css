@@ -78,10 +78,17 @@ a{
     opacity: 1 !important;
     transition: all .8s;
 }
+.link{
+    transition: all 0.25s
+}
 
 .link-effect{
     background: linear-gradient(to right, transparent 50%, #41B883 50%) -100% 0px / 200% !important;
-    transition: all 0.25s ease 0s;
+    transition: all 0.25s
+}
+.link-effect-1{
+    background: linear-gradient(to right, transparent 50%, #41B883 50%) 0% 0px / 200% !important;
+    transition: all 0.25s
 }
 
 .text-1 span{
@@ -309,7 +316,11 @@ li::marker{
 #chapter-1{
     margin-top: 50px;
 }
-
+#chapter-3 p{
+    font-size: 25px;
+    margin-bottom: 10px;
+    font-family: 'NEXON Lv2 Gothic Bold';
+}
 .chapter-box{
 display: flex;
 flex-direction: column;

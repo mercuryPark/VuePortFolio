@@ -1,26 +1,26 @@
 <template>
 <div id="portpolio">
-           <h1>sdfsdf</h1>
 <section class="flex">
   <div id="share">
     <div class="share-box">
       <div>
 <ul>
-  <li class="link" ><a href="#">GitHub<span>.</span></a></li>
-  <li class="link" ><a href="#">LinkedIn<span>.</span></a></li>
-  <li class="link" ><a href="#">Mail<span>.</span></a></li>
-  <li class="link" ><a href="#">Phone<span>.</span></a></li>
+  <li class="link" ><a href="https://github.com/mercuryPark">GitHub<span>.</span></a></li>
+  <li class="link" ><a href="https://www.linkedin.com/in/hoyeonpark0722">LinkedIn<span>.</span></a></li>
+  <li class="link" ><a href="mailto:qkrghdus1113@naver.com">Mail<span>.</span></a></li>
+  <li class="link" ><a href="tel:01035376008">Phone<span>.</span></a></li>
 
 </ul>
 </div>
 <div class="share-update">
+  <h3 style="margin-bottom:10px">qkrghdus1113@naver.com</h3>
 <h3>Last update: 2022/09/26</h3>
 </div>
 </div>
   </div>
   <div id="introduce">
     <div class="textBox">
-<p class="text-1"><span>기록과 공유를 좋아하는</span></p>
+<p class="text-1"><span>웹개발을 즐기는 개발자</span></p>
 <p class="text-2"><span>박호연</span>입니다.</p>
 <p class="text-3"><span>프론트엔드 개발자를 희망하고있습니다.<br>
 사용자 친화적 인터페이스를 만드는것에 관심이 많습니다.<br>
@@ -82,16 +82,34 @@
          <p class="headline">개발팀</p>
          <h2 id="(주)아웃도어스쿨">(주)아웃도어스쿨</h2>
          <span class="date">2021월 11월 10일 - 2022월 5월 10일 ( 계약만료 )</span>
-         <div>
-         <div class="text-line">
-             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-             <p>자사몰 웹사이트 리뉴얼 - godo5 쇼핑몰 솔루션</p>
-             </div>
+         <div class="chapter-box">
                 <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-           <p>자사몰 FE개발 - Cafe24 쇼핑몰 솔루션</p>
+           <p>SOS몰 자사몰 사이트 (Cafe24기반 1인개발)</p>
           </div>
+          <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>모바일 자사몰웹 퍼블리싱</p>
+          </div>
+            <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>브랜드 서칭 및 링크연결 페이지 개발</p>
+          </div>
+              <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>브랜드 소개 슬라이드 ui 적용 & 이벤트페이지 리뉴얼</p>
+          </div>
+           <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>구글 Ads, 판매자센터 - 상품등록, 실시간 광고 cpc 관리</p>
+          </div>
+            <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>결제 PG사 계약 & 오픈채팅 SNS 관리</p>
+          </div>
+          
              </div>
+             
 
      
        </div>
@@ -110,7 +128,7 @@
          <span class="date">2022월 08월 25일 - 2022월 09월 13일</span>
            <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>omdb api를 사용한 영화 검색사이트 구현</p>
+            <p>OMDB_API를 이용한 영화 검색사이트 구현</p>
              </div>
                <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
@@ -119,6 +137,10 @@
                <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
             <p>영화 제목으로 구글검색 구현</p>
+             </div>
+             <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+            <p>반응형 디자인과 등록되지 않은 포스터 블라인드 처리</p>
              </div>
 
              
@@ -181,8 +203,13 @@
              </div>
                <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>유저 db 연동 -> 개인정보 저장</p>
+            <p>MongoDB로 유저정보와 게시판정보 실시간 데이터베이스 사용가능</p>
              </div>
+              <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+            <p>localStorage를 사용해 로그인 여부 확인 구현</p>
+             </div>
+            
              <p class="stack">실제 사용모습</p>
             <v-expansion-panels style="width:80%">
     <v-expansion-panel>
@@ -224,12 +251,13 @@
          <span class="date">2022월 08월 10일 - 2022월 08월 17일</span>
          <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>라이브러리를 이용한 캘린더 구현 -> 계획 및 일정 기록</p>
+            <p>Preact를 이용한 캘린더 구현 -> 계획 및 일정 기록 가능</p>
              </div>
              <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>계획 저장 및 삭제 구현</p>
+            <p>오늘의 계획 저장 및 취소선 삭제 기능 구현</p>
              </div>
+           
              <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
             <p>사용자 친화적 인터페이스 개발</p>
@@ -273,22 +301,22 @@
          <p class="headline">기업 프로젝트</p>
          <h2 id="아웃도어스쿨"><img style="width:200px; height:140px" src="../assets/img/sosmall.png" alt=""></h2>
          <span class="date">2022월 02월 - 2022월 05월</span>
-          <div class="text-line">
+            <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>사용자 친화적 인터페이스 구현</p>
-             </div>
+           <p>모바일 자사몰웹 버블리싱</p>
+          </div>
+            <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>브랜드 서칭 및 링크연결 페이지 개발</p>
+          </div>
               <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>브랜드 검색페이지 구현</p>
-             </div>
+           <p>브랜드 소개 슬라이드 ui 적용 & 이벤트페이지 리뉴얼</p>
+          </div>
               <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-            <p>이벤트 페이지 구현</p>
-             </div>
-              <div class="text-line">
-             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-             <p>ui/ux 개발</p>
-             </div>
+           <p>전 구간 모든페이지 퍼블리싱 작업 (웹 디자이너 협업)</p>
+          </div>
 
 
    <p class="stack">실제 사용모습</p>
@@ -327,7 +355,7 @@
      <li class="br">
        <div class="chapter-box chapter">
          <p class="headline">개인 프로젝트</p>
-         <h2 id="포트폴리오">PORTFOLIO</h2>
+         <h2 id="포트폴리오">프론트엔드 개발자 포트폴리오</h2>
          <span class="date">2022월 09월 - 진행중</span>
               <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
@@ -362,17 +390,23 @@
    <ul class="chapter-box br">
       <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-             <p id="깃허브" class="chapter">Github</p>
+             <ul class="link" style="padding:5px 15px">
+            
+             <a  class="chapter" href="https://github.com/mercuryPark"> <p id="깃허브">Github</p>프로필 바로가기</a> 
+             </ul>
              </div>
               <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-             <p id="벨로그" class="chapter">velog</p>
+             <ul class="link" style="padding:5px 15px">
+            
+             <a   class="chapter" href="https://velog.io/@mercury_park"> <p id="벨로그">velog</p>프로필 바로가기</a> 
+             </ul>
              </div>
               <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-             <ul>
-             <p id="링크드인" class="chapter">linkdin</p>
-             <a href="www.linkedin.com/in/hoyeonpark0722">프로필 바로가기</a> 
+             <ul class="link" style="padding:5px 15px">
+             
+             <a  class="chapter" href="https://www.linkedin.com/in/hoyeonpark0722"><p id="링크드인">linkdin</p>프로필 바로가기</a> 
              </ul>
              </div>
    </ul>
@@ -398,18 +432,42 @@
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
              <p>팀프로젝트 - YOUTH THE YOUTH 웹사이트 개발</p>
              </div>
+             
        </div>
+       
      </li>
    </ul>
+   
  </div>
+ 
    </section>
-     <section id="chapter-5">
+     <section id="chapter-5" style="margin-bottom:30px">
  <h1 class="chapter">My introduce<span>.</span></h1>
   <div class="chapter">
-    <h2 style="width:80%; margin-bottom:30px">"대충 간지나는 한줄멘트 여기에다가 적고"</h2>
-<p style="width:80%">
-  안녕하세요 박호연입니다리 안녕하세요 박호연입니다리 안녕하세요 박호연입니다리 안녕하세요 박호연입니다리ㅍ 안녕하세요 박호연입니다리안녕하세요 박호연입니다리 안녕하세요 박호연입니다리 안녕하세요 박호연입니다리
+
+       <h2 class="animate__flipInY" style="width:80%; margin-bottom:30px; font-size:35px">“한번 더 방문하게 하는 서비스를 만들겠습니다.”</h2>
+<p style="width:80%; font-size:18px">
+ 안녕하세요 프론트엔드 개발자를 희망하는 박호연입니다.<br>
+우연히 시작하게 된 웹 개발은 저에게 삶의 즐거움이자 직업으로 이어지는 길이 되었습니다.<br><br>
+
+비록 비전공자로서 진입 방벽이 높았고 출발점이 순탄치 않았지만, 어제보다 더 발전한 오늘을
+기대하며 하루하루 최선을 다해 웹 개발자로서 성장하고 있습니다.<br><br>
+
+스타트업 쇼핑몰 개발자로 6개월간 재직했었습니다.<br> 디자이너와 협업하고 기업의 발전을 위해 일했던 시간들은 저에게 너무 값진 시간이었으며,<br>
+앞으로의 목표 방향성을 굳히는 기회였습니다.
+ <br><br> 공백 기간 동안 Open API를 다루고 Node.js와 JS 프레임워크를 
+다시 한번 준비하며<br> 백엔드 개발자와도 협업할 수 있는 프론트엔드 개발자로 거듭나길 기대하고 있습니다.<br><br>
+
+저는 회사에 이해관계에 잘 흡수되는 사람이 되고 싶습니다.
+원하는 요구사항에 최선을 다하며,<br> 협업하는 사람들과의 업무에 집중한다면 
+자연스레 개발자 시장에서 요구하는 인재상이 될거라 믿고 있습니다.<br><br>
+
+아직은 많이 부족하지만 
+이런 저의 성장 가능성을 믿고 이끌어줄 회사를 찾고 있습니다.
 </p>
+      
+   
+    
  </div>
    </section>
 
@@ -452,10 +510,12 @@ export default {
 
      for(let i = 0; i < link.length; i++){
            function mouseOver(){
+            link[i].classList.remove('link-effect-1')
          link[i].classList.add('link-effect')
     }
     function mouseOut(){
         link[i].classList.remove('link-effect')
+        link[i].classList.add('link-effect-1')
     }
 
     link[i].addEventListener('mouseover', mouseOver);
@@ -508,6 +568,7 @@ export default {
       } else{
         textPoint[i].classList.remove("color");
       }
+      
       
       
       }
