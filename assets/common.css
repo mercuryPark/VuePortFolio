@@ -208,7 +208,7 @@ a{
 }
 
 #share ul li span{
-    color: #41B883;
+    color: #41B883 !important;
     font-size: 45px;
 }
 
@@ -225,14 +225,14 @@ a{
 #container h1{
     font-size: 70px;
     padding: 20px 0 30px 0;
-    border-bottom: 6.5px solid #41B883;
+    border-bottom: 6.5px solid #41B883 !important;
     width: 80%;
     margin-bottom: 70px;
     font-family: 'NEXON Lv2 Gothic Bold' !important;
 }
 #container h1 span{
     font-family: 'NEXON Lv2 Gothic Bold' !important;
-    color: #41B883;
+    color: #41B883 !important;
 }
 #container h2{
     font-family: 'NEXON Lv2 Gothic Bold' !important;
@@ -349,7 +349,7 @@ row-gap: 25px;
 }
 
 a.point.color{
-    color: #41B883;
+    color: #41B883 !important;
 }
 h1.point{
     color: #000 !important;
@@ -361,7 +361,7 @@ h1.point.color{
 }
 
 .gCPosX {
-    color: #41B883;
+    color: #41B883 !important;
 }
 path{
     fill: currentColor;
