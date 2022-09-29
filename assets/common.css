@@ -371,6 +371,14 @@ a:active {
     transform: translate(20px, 20px); /*x, y축으로 20px씩 이동*/
 }
 
+#chapter-2 img{
+    width: 25px;
+    position: relative;
+    height: 25px;
+    top: 7px;
+    margin-right: 10px;
+}
+
 @media (max-width:1100px){
     #ability #container{
         width: 100vw;

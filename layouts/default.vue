@@ -144,7 +144,7 @@
              </div>
 
              
- <p class="stack">실제 사용모습</p>
+ <p class="stack"><img src="~assets/img/loupe.png" alt="">실제 사용모습</p>
             <v-expansion-panels style="width:80%">
     <v-expansion-panel>
       <v-expansion-panel-header>
@@ -165,7 +165,7 @@
         
        
 
-         <p class="stack">사용기술들</p>
+         <p class="stack"><img src="~assets/img/pencil.png" alt="">사용기술들</p>
      
 
            <v-expansion-panels multiple style="width:80%;">
@@ -210,7 +210,7 @@
             <p>localStorage를 사용해 로그인 여부 확인 구현</p>
              </div>
             
-             <p class="stack">실제 사용모습</p>
+              <p class="stack"><img src="~assets/img/loupe.png" alt="">실제 사용모습</p>
             <v-expansion-panels style="width:80%">
     <v-expansion-panel>
       <v-expansion-panel-header>
@@ -226,7 +226,7 @@
       </v-expansion-panel-content>
     </v-expansion-panel>
   </v-expansion-panels>
-         <p class="stack">사용기술들</p>
+         <p class="stack"><img src="~assets/img/pencil.png" alt="">사용기술들</p>
             <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 4"
@@ -262,7 +262,7 @@
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
             <p>사용자 친화적 인터페이스 개발</p>
              </div>
-             <p class="stack">실제 사용모습</p>
+             <p class="stack"><img src="~assets/img/loupe.png" alt="">실제 사용모습</p>
             <v-expansion-panels style="width:80%">
     <v-expansion-panel>
       <v-expansion-panel-header>
@@ -278,7 +278,7 @@
       </v-expansion-panel-content>
     </v-expansion-panel>
   </v-expansion-panels>
-         <p class="stack">사용기술들</p>
+         <p class="stack"><img src="~assets/img/pencil.png" alt="">사용기술들</p>
             <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 4"
@@ -319,7 +319,7 @@
           </div>
 
 
-   <p class="stack">실제 사용모습</p>
+ <p class="stack"><img src="~assets/img/loupe.png" alt="">실제 사용모습</p>
             <v-expansion-panels style="width:80%">
     <v-expansion-panel>
       <v-expansion-panel-header>
@@ -335,7 +335,7 @@
       </v-expansion-panel-content>
     </v-expansion-panel>
   </v-expansion-panels>
-         <p class="stack">사용기술들</p>
+       <p class="stack"><img src="~assets/img/pencil.png" alt="">사용기술들</p>
                <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 3"
@@ -365,7 +365,7 @@
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
              <p>ui/ux 애니메이션 구현</p>
              </div>
-         <p class="stack">사용기술들</p>
+         <p class="stack"><img src="~assets/img/pencil.png" alt="">사용기술들</p>
              <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 5"
