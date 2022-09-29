@@ -168,7 +168,7 @@
          <p class="stack">사용기술들</p>
      
 
-           <v-expansion-panels style="width:80%;">
+           <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 4"
       :key="i"
@@ -227,7 +227,7 @@
     </v-expansion-panel>
   </v-expansion-panels>
          <p class="stack">사용기술들</p>
-            <v-expansion-panels style="width:80%;">
+            <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 4"
       :key="i"
@@ -279,7 +279,7 @@
     </v-expansion-panel>
   </v-expansion-panels>
          <p class="stack">사용기술들</p>
-            <v-expansion-panels style="width:80%;">
+            <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 4"
       :key="i"
@@ -336,7 +336,7 @@
     </v-expansion-panel>
   </v-expansion-panels>
          <p class="stack">사용기술들</p>
-               <v-expansion-panels style="width:80%;">
+               <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
       v-for="(item,i) in 3"
       :key="i"
@@ -366,9 +366,9 @@
              <p>ui/ux 애니메이션 구현</p>
              </div>
          <p class="stack">사용기술들</p>
-             <v-expansion-panels style="width:80%;">
+             <v-expansion-panels multiple style="width:80%;">
     <v-expansion-panel
-      v-for="(item,i) in 4"
+      v-for="(item,i) in 5"
       :key="i"
     >
       <v-expansion-panel-header>
@@ -490,7 +490,7 @@ export default {
        skillItem1 : ['jQuery', 'NodeJS','Express','MongoDB'],
        skillItem2 : ['jQuery', 'NodeJs','Express','Preact'],
        skillItem3 : ['Cafe24', 'jQuery', 'Swiper'],
-       skillItem4 : ['Vue.js', 'VueX','Nuxt.js','Vuetify'],
+       skillItem4 : ['Vue.js', 'VueX','Nuxt.js','Vuetify', 'Vercel'],
        data : data,
        mouseover : false
 
