@@ -405,14 +405,14 @@ a:active {
         display: block;
     }
     #share{
-        width: 100vw;
+        width: 100vw !important;
     height: 100%;
     row-gap: 30px;
     }
     #introduce,
     #introduce .textBox,
     #introduce .imgBox img{
-        width: 100vw;
+        width: 100vw !important;
     }
     .text-1,
 .text-2,
