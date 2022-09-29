@@ -445,7 +445,7 @@
  <h1 class="chapter">My introduce<span>.</span></h1>
   <div class="chapter">
 
-       <h2 class="animate__flipInY" style="width:80%; margin-bottom:30px; font-size:35px">“한번 더 방문하게 하는 서비스를 만들겠습니다.”</h2>
+       <h2 style="width:80%; margin-bottom:30px; font-size:35px">“한번 더 방문하게 하는 서비스를 만들겠습니다.”</h2>
 <p style="width:80%; font-size:18px">
  안녕하세요 프론트엔드 개발자를 희망하는 박호연입니다.<br>
 우연히 시작하게 된 웹 개발은 저에게 삶의 즐거움이자 직업으로 이어지는 길이 되었습니다.<br><br>
@@ -481,7 +481,6 @@
 
 <script>
 import data from '../assets/data.js'
-import 'animate.css';
 export default {
   name: 'App',
   data(){

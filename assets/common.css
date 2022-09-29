@@ -320,7 +320,7 @@ li::marker{
     font-size: 25px;
     margin-bottom: 10px;
     font-family: 'NEXON Lv2 Gothic Bold';
-}
+} 
 .chapter-box{
 display: flex;
 flex-direction: column;
