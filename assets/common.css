@@ -381,28 +381,28 @@ a:active {
 
 @media (max-width:1100px){
     #ability #container{
-        width: 100vw;
+        width: 100vw !important;
     }
     #share ul{
-        row-gap: 10px;
+        row-gap: 10px !important;
     }
     #share h3{
-        font-size: 13px;
+        font-size: 13px !important;
     }
     #share ul li a{
-        font-size: 35px;
+        font-size: 35px !important;
     }
     #introduce .imgBox{
-        position: relative;
+        position: relative !important;
     }
     #container h1{
-        width: 100%;
+        width: 100% !important;
     }
     #sideNav{
-        display:none;
+        display:none !important;
     }
     .flex{
-        display: block;
+        display: block !important;
     }
     #share{
         width: 100vw !important;
