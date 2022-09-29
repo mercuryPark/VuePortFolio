@@ -1,5 +1,100 @@
+@media (max-width:600px){
+    #오픈채팅사이트 img,
+    #계획달성사이트 img{
+        width: 100% !important;
 
-@media (max-width:1100px){
+    }
+    #ability #container{
+        width: 100vw !important;
+    }
+    #share ul{
+        row-gap: 0px !important;
+    }
+    #share h3{
+        font-size: 13px !important;
+    }
+    #share ul li a{
+        font-size: 30px !important;
+    }
+    #introduce .imgBox{
+        position: relative !important;
+    }
+    #introduce .imgBox img{
+        object-fit: cover !important;
+    }
+    #container h1{
+        width: 100% !important;
+        font-size: 50px !important;
+    }
+    #container p, #container li {
+        font-size: 16px !important;
+    }
+    #container h2{
+        font-size: 32px !important;
+    }
+    .v-item-group{
+        width: 100% !important;
+    }
+    #chapter-5 p{
+        font-size: 16px !important;
+        width: 100% !important;
+    }
+    #chapter-5 h1{
+        font-size: 40px !important;
+    }
+    #container .chapter #포트폴리오{
+        font-size: 25px !important;
+    }
+    #chapter-5 h2{
+        font-size: 25px !important;
+        width: 100% !important;
+    }
+    #sideNav{
+        display:none !important;
+    }
+    .flex{
+        display: block !important;
+    }
+    #share{
+        width: 100vw !important;
+    height: 80% !important;
+    row-gap: 30px !important;
+    }
+    #introduce,
+    #introduce .textBox,
+    #introduce .imgBox img{
+        width: 100vw !important;
+    }
+    .text-1,
+.text-2,
+.text-3{
+    position: relative !important;
+    font-family: "NEXON Lv2 Gothic Bold";
+    letter-spacing: 2px !important;
+    z-index: 5 !important;
+    margin: 16px 0 !important;
+    
+}
+.text-1 span{
+    font-family: "NEXON Lv2 Gothic Bold" !important;
+}
+.textBox .text-1 span,
+.text-2{
+    font-size: 25px !important;    
+}
+.textBox .text-2 span{
+    font-size: 50px !important;
+    background-size: 100% 100% !important;
+    background-image: linear-gradient(transparent 80%, #41B883 20%);
+    font-family: "NEXON Lv2 Gothic Bold" !important;
+}
+.textBox .text-3 span{
+    font-size: 15px !important;
+    letter-spacing: -0.5px;
+}
+    
+}   
+@media (max-width:1080px){
     #ability #container{
         width: 100vw !important;
     }
@@ -64,6 +159,8 @@
 }
 
 
+
+
 li{
     background: linear-gradient(to right, transparent 50%, #41B883 50%) 0px 0px / 200%;
     transition: all 0.25s ease 0s;
@@ -91,7 +188,7 @@ a{
 *{
     font-family: 'NEXON Lv2 Gothic';
     font-weight: 700;
-   
+    letter-spacing: -0.3px;
 }
 /* main container */
 .text-1,
@@ -216,7 +313,7 @@ a{
 #introduce .imgBox img{
     width: 80vw;
     height: 100vh;
-    
+    object-fit: cover;
 }
 #share{
     width: 20vw;
@@ -421,7 +518,6 @@ h1.point{
     font-weight: 700;
 }
 h1.point.color{
-    
     font-size: 18px !important; 
 }
 
