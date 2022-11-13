@@ -118,12 +118,12 @@
        <div class="chapter-box chapter">
          <p class="headline">개발팀</p>
          <h2 id="(주)아웃도어스쿨">지란지교소프트</h2>
-         <span class="date">2022월 11월 14일 ~</span>
+         <span class="date">2022월 11월 14일 ~ 재직중</span>
          <div class="chapter-box">
-                <!-- <div class="text-line">
+                <div class="text-line">
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
-           <p>SOS몰 자사몰 사이트 (Cafe24기반 1인개발)</p>
-          </div> -->
+           <p>오피스웨어개발그룹 프론트엔드 개발</p>
+          </div>
           
           
              </div>
