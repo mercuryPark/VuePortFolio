@@ -43,18 +43,18 @@
       <h1 class="point">Work</h1>
       
       <ul>
-        <li><a class="point" href="#(주)아웃도어스쿨" >아웃도어스쿨</a></li>
-        <li><a class="point" href="#지란지교소프트" >아웃도어스쿨</a></li>
+        <li><a class="point" href="#(주)아웃도어스쿨">아웃도어스쿨</a></li>
+        <li><a class="point" href="#지란지교소프트">지란지교소프트</a></li>
       </ul>
       <h1 class="point">Project</h1>
       <ul>
         <li><a class="point" href="#영화검색사이트">영화 검색 사이트</a></li>
 
      <li><a class="point" href="#오픈채팅사이트">오픈채팅 사이트</a></li>
-     <li><a class="point" href="#계획달성사이트" >계획달성 사이트</a></li>
+     <li><a class="point" href="#계획달성사이트">계획달성 사이트</a></li>
      <li><a class="point" href="#아웃도어스쿨">아웃도어스쿨</a></li>
      <li><a class="point" href="#포트폴리오">포트폴리오 사이트</a></li>
-     <li><a class="point" href="#기술블로그">포트폴리오 사이트</a></li>
+     <li><a class="point" href="#기술블로그">기술블로그</a></li>
       </ul>
       <h1 class="point">Share</h1>
       <ul>
