@@ -44,6 +44,7 @@
       
       <ul>
         <li><a class="point" href="#(주)아웃도어스쿨" >아웃도어스쿨</a></li>
+        <li><a class="point" href="#지란지교소프트" >아웃도어스쿨</a></li>
       </ul>
       <h1 class="point">Project</h1>
       <ul>
@@ -53,6 +54,7 @@
      <li><a class="point" href="#계획달성사이트" >계획달성 사이트</a></li>
      <li><a class="point" href="#아웃도어스쿨">아웃도어스쿨</a></li>
      <li><a class="point" href="#포트폴리오">포트폴리오 사이트</a></li>
+     <li><a class="point" href="#기술블로그">포트폴리오 사이트</a></li>
       </ul>
       <h1 class="point">Share</h1>
       <ul>
