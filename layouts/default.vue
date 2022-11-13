@@ -14,7 +14,7 @@
 </div>
 <div class="share-update">
   <h3 style="margin-bottom:10px">qkrghdus1113@naver.com</h3>
-<h3>Last update: 2022/09/26</h3>
+<h3>Last update: 2022/11/13</h3>
 </div>
 </div>
   </div>
@@ -107,6 +107,24 @@
              <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
            <p>결제 PG사 계약 & 오픈채팅 SNS 관리</p>
           </div>
+          
+             </div>
+             
+
+     
+       </div>
+     </li>
+     <li class="br">
+       <div class="chapter-box chapter">
+         <p class="headline">개발팀</p>
+         <h2 id="(주)아웃도어스쿨">지란지교소프트</h2>
+         <span class="date">2022월 11월 14일 ~</span>
+         <div class="chapter-box">
+                <!-- <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+           <p>SOS몰 자사몰 사이트 (Cafe24기반 1인개발)</p>
+          </div> -->
+          
           
              </div>
              
@@ -381,6 +399,72 @@
   </v-expansion-panels>
           </div>
      </li>
+     <div class="chapter-box chapter">
+         <p class="headline">개인 프로젝트</p>
+         <h2 id="영화검색사이트">
+          <!-- <img style="width:300px; height:100px" src="../assets/img/vueMovie.png" alt=""> -->
+          박호연의 기술블로그 (진행중)
+        </h2>
+         <span class="date">2022월 11월 01일 ~ 진행중</span>
+           <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+            <p>React 기반 Gatsby로 만드는 기술블로그입니다.</p>
+             </div>
+               <!-- <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+             <p>로딩페이지, 더보기 버튼 구현</p>
+             </div>
+               <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+            <p>영화 제목으로 구글검색 구현</p>
+             </div>
+             <div class="text-line">
+             <svg class="MuiSvgIcon-root Explain__ExplainCheckIcon-sc-1huy195-2 gCPosX" focusable="false" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"></path></svg>
+            <p>반응형 디자인과 등록되지 않은 포스터 블라인드 처리</p>
+             </div> -->
+
+             
+ <!-- <p class="stack"><img src="~assets/img/loupe.png" alt="">실제 사용모습</p>
+            <v-expansion-panels style="width:80%">
+    <v-expansion-panel>
+      <v-expansion-panel-header>
+        VueMovie
+      </v-expansion-panel-header>
+      <v-expansion-panel-content style="font-size:15px">
+      <div class="video-box-1" style="text-align:center">
+   <video controls width="100%">
+     <source src="../assets/video/vuemovie.mp4"
+            type="video/mp4">
+   </video>
+   </div>
+      </v-expansion-panel-content>
+    </v-expansion-panel>
+  </v-expansion-panels> -->
+
+ 
+        
+       
+
+         <!-- <p class="stack"><img src="~assets/img/pencil.png" alt="">사용기술들</p>
+     
+
+           <v-expansion-panels multiple style="width:80%;">
+    <v-expansion-panel
+      v-for="(item,i) in 4"
+      :key="i"
+    >
+      <v-expansion-panel-header>
+        {{skillItem[i]}}
+      </v-expansion-panel-header>
+      <v-expansion-panel-content style="font-size:15px">
+       {{data.data.vuemovie[i]}}
+      </v-expansion-panel-content>
+    </v-expansion-panel>
+  </v-expansion-panels> -->
+
+       
+  </div>
+
    </ul>
  </div>
    </section>
